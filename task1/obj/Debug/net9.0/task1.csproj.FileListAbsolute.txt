@@ -12,3 +12,4 @@ D:\OneDrive\Рабочий стол\Less1\task1\obj\Debug\net9.0\refint\task1.dl
 D:\OneDrive\Рабочий стол\Less1\task1\obj\Debug\net9.0\task1.pdb
 D:\OneDrive\Рабочий стол\Less1\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
 D:\OneDrive\Рабочий стол\Less1\task1\obj\Debug\net9.0\ref\task1.dll
+D:\OneDrive\Рабочий стол\Less1\task1\obj\Debug\net9.0\task1.sourcelink.json
