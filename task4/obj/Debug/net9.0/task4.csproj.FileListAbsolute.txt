@@ -1,0 +1,15 @@
+D:\OneDrive\Рабочий стол\Less1\task4\bin\Debug\net9.0\task4.exe
+D:\OneDrive\Рабочий стол\Less1\task4\bin\Debug\net9.0\task4.deps.json
+D:\OneDrive\Рабочий стол\Less1\task4\bin\Debug\net9.0\task4.runtimeconfig.json
+D:\OneDrive\Рабочий стол\Less1\task4\bin\Debug\net9.0\task4.dll
+D:\OneDrive\Рабочий стол\Less1\task4\bin\Debug\net9.0\task4.pdb
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.AssemblyInfoInputs.cache
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.AssemblyInfo.cs
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.csproj.CoreCompileInputs.cache
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.sourcelink.json
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.dll
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\refint\task4.dll
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.pdb
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\task4.genruntimeconfig.cache
+D:\OneDrive\Рабочий стол\Less1\task4\obj\Debug\net9.0\ref\task4.dll
